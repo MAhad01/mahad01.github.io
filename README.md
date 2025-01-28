@@ -50,7 +50,8 @@
 ### Sensor Fault Detection ML Project
 [GitHub](https://github.com/MAhad01/sensorproject01)
 
-- This project is a machine learning-based application for detecting faults in sensor data. It uses Flask as a web framework, **Docker** for containerization, GitHub Actions for CI/CD, and **MongoDB** for data storage. - -- The application can be deployed locally, on **AWS** EC2, or through Amazon ECR/ECS using an automated pipeline.
+- This project is a machine learning-based application for detecting faults in sensor data. It uses Flask as a web framework, **Docker** for containerization, GitHub Actions for CI/CD, and **MongoDB** for data storage.
+- The application can be deployed locally, on **AWS** EC2, or through Amazon ECR/ECS using an automated pipeline.
 
 ### Text Paraphraser using Pegasus
 [GitHub](https://github.com/MAhad01/paraphraser_pegasus)
