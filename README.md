@@ -4,8 +4,7 @@
 #### Programming Languages: Python, SQL 
 #### Libraries/Frameworks: NumPy, Pandas, Scikit-learn, Keras, Tensorflow, Langchain
 
-## Education							       		
-- Post Graduate Diploma, Computer Programming	| Aligarh Muslim University (_2024-25_)	 			        		
+## Education							       					        		
 - Bachelor of Technology, Civil Engineering | Zakir Husain College of Engineering and Technology, Aligarh Muslim University (_2020-24_)
 
 ## Work Experience
